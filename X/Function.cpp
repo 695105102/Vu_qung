@@ -7,3 +7,4 @@ void sort(int* arr, int length)
 {
  // code: sort cua nhanh master
 }
+
